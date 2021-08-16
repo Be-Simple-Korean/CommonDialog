@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dialog_canecl">취소</string>
+    <string name="dialog_confirm">확인</string>
+</resources>
