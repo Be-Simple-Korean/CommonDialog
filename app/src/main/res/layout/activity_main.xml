@@ -19,4 +19,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Simple-no title"/>
+    <Button
+        android:id="@+id/btn_c_t"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm-title"/>
+    <Button
+        android:id="@+id/btn_c_n_t"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm-no title"/>
+
 </LinearLayout>
